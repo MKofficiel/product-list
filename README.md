@@ -5,7 +5,7 @@ This project is designed as a small practice app to demonstrate product selectio
 
 ## 📸 Preview
 
-![screenshot](./Screenshot.png)  
+![Screenshot](./Screenshot.png)  
 _(Add an updated screenshot or animated GIF demo here)_
 
 ## 🛠 Built With
