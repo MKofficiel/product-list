@@ -14,8 +14,6 @@ function AppLayout() {
         <OrderModal order={order} onOrder={setOrder} />
       </div>
       <div className={clsx(order && "absolute inset-0 bg-black/50")} />
-
-      {/* djjfjf */}
     </section>
   );
 }
