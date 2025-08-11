@@ -20,7 +20,7 @@ function OrderModal({ order, onOrder, item }) {
   return (
     <div
       className={clsx(
-        "absolute top-1/2 left-1/2 z-50 w-[592px] -translate-x-1/2 -translate-y-1/2 space-y-6 rounded-[12px] bg-white p-[40px] opacity-0",
+        "absolute top-1/2 left-1/2 z-50 max-w-[592px] -translate-x-1/2 -translate-y-1/2 space-y-6 rounded-[12px] bg-white p-[40px] opacity-0 max-md:w-full",
         order ? "pointer-events-auto opacity-100" : "pointer-events-none",
       )}
     >
